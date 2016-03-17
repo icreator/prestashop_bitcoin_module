@@ -6,4 +6,4 @@ LITE.cash payment module for Prestashop v1.6 and higer
 ### Version
 
 ### Installation guide
-http://lite.cash/bs3b/default/join
+http://lite.cash/default/join
