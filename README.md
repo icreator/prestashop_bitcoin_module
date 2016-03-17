@@ -1,4 +1,3 @@
-# prestashop_bitcoin_module
 PrestaShop bitcoin accepting module
 # Bitcoin PrestaShop v1.6 payment module (LITE.cash)
 
